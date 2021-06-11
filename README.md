@@ -19,3 +19,11 @@ In this project I worked on 3 different approaches. Multi-Class Classifiers Meth
 3.1 Multi-Class Classifiers Method:
 
 In Multi-class classification CNN models which have strong capability to capture spatial relationships of pixels across rows and columns and pre-trained models VGG-16 and RESNET50 are performed.
+
+3.2 Multiple Binary-Classifiers Method:
+
+In this method, the training data set is divided into 3 binary classes. In each binary classes, the data set is splitted into training, validation, and testing data sets.
+
+3.3 Ensemble Method:
+
+In this section the ensemble method which uses multiple learning algorithms to obtain better predictive performance than could be obtained from any learning algorithms alone, is applied by concatenating the best binary classifications models and Model_Multiclass based on the highest probability method.
