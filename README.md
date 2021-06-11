@@ -1,6 +1,6 @@
 # Brain-Tumor-Classification-
 
-1. INTRODUCTION
+## 1. INTRODUCTION
 
 Brain tumor is the collection is an abnormal mass of tissue in which cells grow and multiply uncontrollably, seemingly unchecked by the mechanisms that control normal cells. Brain tumors can be both malignant or benign. The most common types of brain tumors are Glioma, Meningioma and Pituitary tumor. 
 
@@ -8,11 +8,11 @@ There are several medical imaging techniques used to acquire information about t
 
 The goal of this project is to develop a Deep Learning approach by using Convolutional Neural Network and Transfer Learning (TL) to detect and classify Brain Tumor.
 
-2. DATA OVERVIEW
+## 2. DATA OVERVIEW
 
 The data set provided by https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri is used in this study. The dataset contains 4 subfolders which are consisted of respective tumor classes, Glioma, Meningioma, Pituitary, and No Tumor datasets.
 
-3. CLASSIFICATION METHODS AND MODELS
+## 3. CLASSIFICATION METHODS AND MODELS
 
 In this project I worked on 3 different approaches. Multi-Class Classifiers Method,  Multiple Binary-Classifiers Method and Majority Voting Ensemble Method. 
 
