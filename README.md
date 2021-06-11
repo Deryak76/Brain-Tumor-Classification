@@ -27,3 +27,11 @@ In this method, the training data set is divided into 3 binary classes. In each 
 3.3 Ensemble Method:
 
 In this section the ensemble method which uses multiple learning algorithms to obtain better predictive performance than could be obtained from any learning algorithms alone, is applied by concatenating the best binary classifications models and Model_Multiclass based on the highest probability method.
+
+## 4. Metrics and Evaluation:
+
+The goal of this project is to detect and classify the tumor correctly. Capturing the tumor is highly important for treatment. Therefore recall score which measures the model in identifying the True Positives correctly is an important decision criteria in model evaluation. 
+
+Although recall is crucial in tumor diagnosis and treatment, precision metric which is important to avoid improper treatment for a patient with no disease or different tumor disease, plays an important role in stakeholder’s decision. Therefore both recall and precision are calculated.
+
+
