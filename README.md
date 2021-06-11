@@ -1,4 +1,4 @@
-# Brain-Tumor-Classification-
+# Brain-Tumor-Classification
 
 ## 1. INTRODUCTION
 
