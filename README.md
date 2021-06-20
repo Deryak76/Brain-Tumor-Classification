@@ -14,7 +14,7 @@ The data set provided by https://www.kaggle.com/sartajbhuvaji/brain-tumor-classi
 
 ## 3. CLASSIFICATION METHODS AND MODELS
 
-In this project I worked on 3 different approaches. Multi-Class Classifiers Method,  Multiple Binary-Classifiers Method and Majority Voting Ensemble Method. 
+In this project I worked on 3 different approaches. Multi-Class Classifiers Method,  Multiple Binary-Classifiers Method and Ensemble Method. 
 
 3.1 Multi-Class Classifiers Method:
 
