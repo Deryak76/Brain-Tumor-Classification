@@ -1,4 +1,5 @@
 # Brain-Tumor-Classification
+![image](https://user-images.githubusercontent.com/67438819/130726564-f9bbae24-47de-43e4-b33e-61e29c8d0510.png)
 
 ## 1. INTRODUCTION
 
